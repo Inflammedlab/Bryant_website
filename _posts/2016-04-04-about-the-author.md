@@ -4,7 +4,7 @@ title: "Overall research focus"
 author: "Julieth Murillo"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: clarebryantcat.jpeg
 ---
 
 Clare bryant lab
