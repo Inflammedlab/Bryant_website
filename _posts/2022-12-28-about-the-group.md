@@ -7,4 +7,4 @@ tags: [sample]
 image: clarebryantcat.jpeg
 ---
 
-Clare bryant lab laverages the research of the innate immune system to champion the development of drugs across different pathologies. 
+Clare Bryant's lab is using its expertise in the innate immune system to advance the development of drugs to treat a range of pathologies. By leveraging their knowledge of the body's natural defenses, the team hopes to identify new therapeutic approaches that can effectively combat a variety of diseases and conditions. Their research has the potential to significantly improve the lives of people affected by these conditions, and their efforts are an important contribution to the field of drug development.
