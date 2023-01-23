@@ -1,25 +1,26 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "TLR Signalling"
+author: "Julieth Murillo"
 categories: documentation
 tags: [documentation,sample]
-image: cuba-1.jpg
+image: ASC.jpg
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+We are studying the molecular mechanisms underlying how ligands, such as endotoxin, interact with TLR4/MD2 receptor complex to recruit their adaptor signalling molecules, such as Mal and Tram, to initiate intracellular signalling (in collaboration with Nick Gay, Biochemistry). 
+
+##Approaches
+
+We are using FRET analysis and single molecule florescence techniques to study how TLRs form active signalling protein complexes and recruit adaptor proteins in real-time in live cells (in collaboration with David Klenerman, Chemistry).  
+
+Allergens, such as the cat dander protein Fel D1, are readily contaminated by endotoxin and this allows them to be detected by TLR4.  Prevention of host detection may prevent the onset of an allergic response. In particular we are interested in how allergens, such as the cat dander protein Fel d1 enhances TLR4 signalling and whether we can design inhibitors to prevent allergen recognition. Similarly other “toxic” proteins (amyloid beta and alpha synuclein) produced during diseases such as Alzheimer’s and Parkinson’s (respectively) can be recognised by TLR4 to induce inflammation and our research with David Klenerman to understand the molecular basis by which host recognition of these proteins occurs may lead to new treatments for these neuroinflammatory diseases.
+
+
 
 ## Getting Started
 
 [Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 
-## Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})
-
-## Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%20question%20about%20Millennial;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
 
 ## More Jekyll!
 
@@ -35,8 +36,3 @@ This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstart
 
 Everything that you will ever need to know about this Jekyll theme is included in [the repository](https://github.com/LeNPaul/portfolio-jekyll-theme), which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
 
-### Jekyll Starter Kit
-
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
-
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
