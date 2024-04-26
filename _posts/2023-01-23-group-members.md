@@ -146,7 +146,5 @@ image: Group_summer_2023.jpeg
 		<td>  </td>
 		<td><b> Santiago </b> PhD student.</td>
 	</tr>
-
-
 </table>
 
