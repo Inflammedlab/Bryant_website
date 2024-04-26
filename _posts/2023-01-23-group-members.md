@@ -123,7 +123,7 @@ image: Group_summer_2023.jpeg
 
 <tr>
 		<td><img src="https://github.com/Inflammedlab/Bryant_website/blob/gh-pages/assets/img/Bea.jpeg" alt='Beatriz Figuereido' height = "250"></td>
-		<td><b>Bea Figuereido</b> I am a second year PhD student investigating.
+		<td><b>Bea Figuereido</b> I am a second year PhD student investigating.</td>
 </tr>
 
 </table>
@@ -134,8 +134,7 @@ image: Group_summer_2023.jpeg
 
 <tr>
 		<td></td>
-		<td><b>Pani </b> I.
-</td>
+		<td><b>Pani </b> I.</td>
 	</tr>
 
 <tr>
