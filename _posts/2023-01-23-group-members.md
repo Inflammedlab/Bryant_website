@@ -6,6 +6,42 @@ categories: resources
 tags: [documentation,sample]
 image: Group_summer_2023.jpeg
 ---
+<style>
+	input {
+		border-top-style: hidden;
+		border-right-style: hidden;
+		border-left-style: hidden;
+		border-bottom-style: groove;
+		background-color: #eee;
+	}
+
+	.no-outline:focus {
+		outline: none;
+	}
+
+	table {
+		border-collapse: collapse; 
+		width: 150%;
+		border: 0px;
+		margin-right: 300px;
+	}	
+
+	table td { border: 0px;
+	}
+</style>
+
+## Group Leader
+<table border="0" cellpadding="0" cellspacing="0"> 
+	<tr>
+		<td><img src="https://github.com/Inflammedlab/Bryant_website/blob/gh-pages/assets/img/clarebryantcat.jpeg" height = "250" alt = 'Professor Clare Bryant'></td>
+		<td><b>Prof Clare Bryant</b> is a Professor </td>
+	</tr>	
+</table>
+
+
+
+
+
 
 The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
 
