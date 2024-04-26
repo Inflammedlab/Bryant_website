@@ -34,7 +34,7 @@ image: Group_summer_2023.jpeg
 <table border="0" cellpadding="0" cellspacing="0"> 
 	<tr>
 		<td><img src="https://github.com/Inflammedlab/Bryant_website/blob/gh-pages/assets/img/clarebryantcat.jpeg" height = "250" alt = 'Professor Clare Bryant'></td>
-		<td><b>Prof Clare Bryant</b> is a Professor </td>
+		<td><b>Prof Clare Bryant</b> FLSW is a British veterinary scientist and clinical pharmacologist who is a professor at the University of Cambridge. She specialises in innate immunity. Bryant is a Fellow of Queens' College, Cambridge and of the British Pharmacological Society. </td>
 	</tr>	
 </table>
 
