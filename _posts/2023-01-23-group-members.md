@@ -51,6 +51,13 @@ image: Group_summer_2023.jpeg
 		<td><img src="https://otr.medschl.cam.ac.uk/files/media/akhilesh_jha_portrait_square_resize_1.jpg" alt='Akhilesh Jha' height = "250"></td>
 		<td><b>Dr. Akhi Jha</b> I am a clinical lecturer in experimental and respiratory medicine at the University of Cambridge and am interested in the genetic and epigenetic mechanisms of innate immune memory in the respiratory mucosa. I completed my PhD at the National Heart and Lung Institute under the supervision of Professor Peter Openshaw and Trevor Hansel. I developed in vivo nasal challenge models using toll-like receptor (TLR) agonists to study mechanistic immune pathways involved in respiratory infections, especially in dysregulated host responses such as in asthma. My goal is to translate an improved understanding of host immunity into developing effective therapies against respiratory infections and aim to collaborate with colleagues in the HIC-Vac network to achieve this.</td>
 	</tr>
+
+<tr>
+		<td>  </td>
+		<td><b>Dr. Weidong</b> I am a postdoc.</td>
+	</tr>
+
+
 </table>
 
 
