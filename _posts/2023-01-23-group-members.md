@@ -119,3 +119,38 @@ image: Group_summer_2023.jpeg
 </table>
 
 
+</table>
+
+
+## Visitors
+<table border="0" cellspacing="0" cellpadding="0"> 
+
+<tr>
+		<td><img src="https://github.com/Inflammedlab/Bryant_website/blob/gh-pages/assets/img/Bea.jpeg" alt='Beatriz Figuereido' height = "250"></td>
+		<td><b>Bea Figuereido</b> I am a second year PhD student investigating.
+</td>
+
+</table>
+
+
+## PhD Students
+<table border="0" cellspacing="0" cellpadding="0"> 
+
+<tr>
+		<td></td>
+		<td><b>Pani </b> I.
+</td>
+	</tr>
+
+<tr>
+		<td>  </td>
+		<td><b>  Gabrielle McClymont </b> PhD student.</td>
+	</tr>
+<tr>
+		<td>  </td>
+		<td><b> Stella Ho </b> PhD student.</td>
+	</tr>
+
+
+</table>
+
