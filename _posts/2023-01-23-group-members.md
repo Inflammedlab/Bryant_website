@@ -91,9 +91,6 @@ image: Group_summer_2023.jpeg
 		<td><b>Dr. Maria Victoria Humbert </b> Postdoctoral Researcher.</td>
 	</tr>
 
-
-
-
 </table>
 
 
@@ -119,7 +116,6 @@ image: Group_summer_2023.jpeg
 </table>
 
 
-</table>
 
 
 ## Visitors
