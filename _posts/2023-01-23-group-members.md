@@ -133,7 +133,7 @@ image: Group_summer_2023.jpeg
 </table>
 
 
-## PhD Students
+## Allumni
 <table border="0" cellspacing="0" cellpadding="0"> 
 
 <tr>
@@ -144,11 +144,11 @@ image: Group_summer_2023.jpeg
 
 <tr>
 		<td>  </td>
-		<td><b>  Gabrielle McClymont </b> PhD student.</td>
+		<td><b>  Lee </b> PhD student.</td>
 	</tr>
 <tr>
 		<td>  </td>
-		<td><b> Stella Ho </b> PhD student.</td>
+		<td><b> Santiago </b> PhD student.</td>
 	</tr>
 
 
