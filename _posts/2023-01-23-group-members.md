@@ -39,7 +39,13 @@ image: Group_summer_2023.jpeg
 </table>
 
 
+## Post-doctoral Researchers
+<table border="0" cellspacing="0" cellpadding="0"> 
 
+<tr>
+		<td><img src="https://github.com/Inflammedlab/Bryant_website/blob/gh-pages/assets/img/Joe.jpg" alt='Joseph Boyle' height = "250"></td>
+		<td><b>Dr. Joseph Boyle</b> I have been working for Clare since finishing my PhD. For most of this time I have been working in collaboration with Apollo Therapeutics to develop small molecule inhibitors of TLR4. My background is in biochemistry and bioinformatics but I am now mostly working on CRISPR-based research, especially on the TRIF pathway downstream of TLR4 signalling.</td>
+	</tr>
 
 
 
