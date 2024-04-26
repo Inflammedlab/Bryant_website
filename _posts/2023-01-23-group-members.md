@@ -47,21 +47,15 @@ image: Group_summer_2023.jpeg
 		<td><b>Dr. Joseph Boyle</b> I have been working for Clare since finishing my PhD. For most of this time I have been working in collaboration with Apollo Therapeutics to develop small molecule inhibitors of TLR4. My background is in biochemistry and bioinformatics but I am now mostly working on CRISPR-based research, especially on the TRIF pathway downstream of TLR4 signalling.</td>
 	</tr>
 
-
-
-The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
-
-## Group leader
-img src= "Santiago.jpg"
+<tr>
+		<td><img src="https://otr.medschl.cam.ac.uk/files/media/akhilesh_jha_portrait_square_resize_1.jpg" alt='Akhilesh Jha' height = "250"></td>
+		<td><b>Dr. Akhi Jha</b> I am a clinical lecturer in experimental and respiratory medicine at the University of Cambridge and am interested in the genetic and epigenetic mechanisms of innate immune memory in the respiratory mucosa. I completed my PhD at the National Heart and Lung Institute under the supervision of Professor Peter Openshaw and Trevor Hansel. I developed in vivo nasal challenge models using toll-like receptor (TLR) agonists to study mechanistic immune pathways involved in respiratory infections, especially in dysregulated host responses such as in asthma. My goal is to translate an improved understanding of host immunity into developing effective therapies against respiratory infections and aim to collaborate with colleagues in the HIC-Vac network to achieve this.</td>
+	</tr>
 
 ### Clare Bryant
 
 ## Group members
 ### Heather
-
-### Joe
-
-I have been working for Clare since finishing my PhD. For most of this time I have been working in collaboration with Apollo Therapeutics to develop small molecule inhibitors of TLR4. My background is in biochemistry and bioinformatics but I am now mostly working on CRISPR-based research, especially on the TRIF pathway downstream of TLR4 signalling.
 
 ### Jack
 
