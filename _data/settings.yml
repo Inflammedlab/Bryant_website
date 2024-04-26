@@ -7,10 +7,10 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Group', folder: 'documentation', file: 'landingpage.html'}
+- {name: 'Group', folder: 'documentation', file: 'about-the-group.html'}
 - {name: 'Research', folder: 'documentation', file: 'research.html'}
 - {name: 'Publications', folder: 'documentation', file: 'publications.html'}
-- {name: 'Group Members', folder: 'documentation', file: 'members.html'}
+- {name: 'Group Members', folder: 'documentation', file: 'group-members.html'}
 - {name: 'Photos', folder: 'documentation', file: 'LabPhotos.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
