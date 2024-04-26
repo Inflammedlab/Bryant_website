@@ -139,11 +139,11 @@ image: Group_summer_2023.jpeg
 
 <tr>
 		<td>  </td>
-		<td><b>  Lee </b> PhD student.</td>
+		<td><b>  Lee </b> PhD.</td>
 	</tr>
 <tr>
 		<td>  </td>
-		<td><b> Santiago </b> PhD student.</td>
+		<td><b> Santiago </b> PhD.</td>
 	</tr>
 </table>
 
