@@ -10,8 +10,9 @@ menu:
 - {name: 'Group', folder: 'documentation', file: 'members.html'}
 - {name: 'Research', folder: 'documentation', file: 'research.html'}
 - {name: 'Publications', folder: 'documentation', file: 'publications.html'}
-- {name: 'Group Members', folder: 'documentation', file: 'group-members.html'}
+- {name: 'Inflammasome', folder: 'documentation', file: 'Inflammasome.html'}
 - {name: 'Collaborators', folder: 'documentation', file: 'Collaborators.html'}
+- {name: 'TLR', folder: 'documentation', file: 'TLR-signallling.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
