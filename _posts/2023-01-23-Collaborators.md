@@ -2,7 +2,7 @@
 layout: post
 title: "Collaborators"
 author: "JM"
-categories: sample
+categories: documentation
 tags: [sample]
 image: arctic-1.jpg
 ---
